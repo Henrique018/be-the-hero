@@ -1,4 +1,4 @@
-import connection from '../../database/connection';
+import connection from '../database/connection';
 
 export default {
   async create(req, res) {
